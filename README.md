@@ -23,3 +23,15 @@
 ## Creating Deep Learning Model:
 
 <img width="825" alt="image" src="https://user-images.githubusercontent.com/65066845/209462817-666a0d60-1146-42d9-a68d-8120e8de14ab.png">
+
+## Pre-Processing: 
+
+### 
+### Converting all text to lower case:
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/65066845/209468333-3a2f101c-512e-4214-85f0-653dcf80e0e1.png">
+### Splitting the text data to a publisher, unknow publisher, and text 
+###### Creating a list of index that don't have the publiction part 
+<img width="794" alt="image" src="https://user-images.githubusercontent.com/65066845/209468683-23fa21d8-87f3-4d5d-945e-f8df3a3dcaa1.png">
+###### create an array with all the publishers names 
+<img width="455" alt="image" src="https://user-images.githubusercontent.com/65066845/209468838-d1764250-f15a-45b7-b42b-8e78f76b3a4f.png">
+
