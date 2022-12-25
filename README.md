@@ -20,3 +20,6 @@
 ### Word cloud for real news:
 <img width="539" alt="image" src="https://user-images.githubusercontent.com/65066845/209462234-94fd6a7d-e510-4b07-be9e-a787b00302cb.png">
 
+## Creating Deep Learning Model:
+
+<img width="825" alt="image" src="https://user-images.githubusercontent.com/65066845/209462817-666a0d60-1146-42d9-a68d-8120e8de14ab.png">
