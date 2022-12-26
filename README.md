@@ -1,9 +1,12 @@
 # Real-or-Fake-News-Claasifacation
 ## Fake dataset 
-<img width="581" alt="image" src="https://user-images.githubusercontent.com/65066845/209502796-7e3f5335-1a91-44e2-ab63-8086b405fa87.png">
+
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/65066845/209506233-e0584278-f9d6-49ae-8771-db5854fc31ea.png">
+
 ## Real Dataset 
 
-<img width="584" alt="image" src="https://user-images.githubusercontent.com/65066845/209502712-0b4fd09e-2d5a-4017-86f8-b1361a7b03be.png">
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/65066845/209506087-7774730b-cfb0-4805-9c91-75c764b2e418.png">
+
 ## Data visuataion:
 
 ### Fake news based on subject:
