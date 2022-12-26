@@ -58,4 +58,9 @@
 ### Testing 
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/65066845/209507529-15a6f8bc-c902-48c5-8690-c9b7b7e3f425.png">
 
+## Tools used:
+* Pandas and Numpy for data manipulation
+* Plotly for data visualizations
+* Tensorflow/Keras for Recurrent Neural Networks
+* Scikit-learn library for splitting the data into train-test samples, for data scaling (MinMaxScaler), and for additional model evaluation (mean_squared_error)
 
