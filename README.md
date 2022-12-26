@@ -51,3 +51,11 @@
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/65066845/209471126-454d1ab1-293a-4ef3-9282-36dd97b55b29.png">
 
 * sg: The training algorithm, either CBOW(0) or skip gram(1). The default training algorithm is CBOW. 
+
+### Model Evalutation 
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/65066845/209507444-c5786613-1126-423f-8a34-abce58929cf6.png">
+
+### Testing 
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/65066845/209507529-15a6f8bc-c902-48c5-8690-c9b7b7e3f425.png">
+
+
