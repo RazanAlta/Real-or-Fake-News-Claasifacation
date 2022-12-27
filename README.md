@@ -64,5 +64,6 @@
 * Tensorflow/Keras for Recurrent Neural Networks
 * Scikit-learn library for splitting the data into train-test samples, for data scaling (MinMaxScaler), and for additional model evaluation (mean_squared_error)
 * <img width="953" alt="image" src="https://user-images.githubusercontent.com/65066845/209663589-231e6f1b-c7ff-4d95-be1f-7cc5fbe9ccfc.png">
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/65066845/209664377-23339678-70c0-4646-ad50-e9fe526efad8.png">
 
 
