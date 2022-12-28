@@ -65,5 +65,12 @@
 * Scikit-learn library for splitting the data into train-test samples, for data scaling (MinMaxScaler), and for additional model evaluation (mean_squared_error)
 * <img width="953" alt="image" src="https://user-images.githubusercontent.com/65066845/209663589-231e6f1b-c7ff-4d95-be1f-7cc5fbe9ccfc.png">
 <img width="734" alt="image" src="https://user-images.githubusercontent.com/65066845/209664377-23339678-70c0-4646-ad50-e9fe526efad8.png">
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/65066845/209769463-8a241450-a34a-4529-9183-e42d1e8e376a.png">
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/65066845/209769554-ac7feedf-d799-4439-9080-f0f9b2e307b4.png">
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/65066845/209769656-6de94574-8af5-4b4e-a8fc-b038e68eb282.png">
+![image](https://user-images.githubusercontent.com/65066845/209769692-0f396963-699f-41de-905e-caf2a6d5bfd2.png)
+<img width="517" alt="image" src="https://user-images.githubusercontent.com/65066845/209769803-552e6c67-b5aa-4f95-8f34-041e39312297.png">
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/65066845/209769901-924054d4-a872-4181-b39a-fbc22c7de7ae.png">
+
 
 
